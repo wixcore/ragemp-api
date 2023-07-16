@@ -1,0 +1,12 @@
+{
+	"name": "@wixcore/ragemp-types-clientside",
+	"version": "1.0.0",
+	"description": "Types definitions for RAGE:MP client-side module",
+	"main": "index.d.ts",
+	"files": [ "index.d.ts", "natives.d.ts", "enums.d.ts", "game.d.ts", "game", "enums"],
+	"author": "@lifesheets",
+	"license": "GNU",
+	"publishConfig": {
+		"access": "public"
+	}
+}
