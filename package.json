@@ -1,0 +1,12 @@
+{
+	"name": "@wixcore/ragemp-types-serverside",
+	"version": "1.0.0",
+	"description": "Types definitions for RAGE:MP server-side module",
+	"main": "index.d.ts",
+	"files": ["index.d.ts","enums.d.ts","hashes"],
+	"author": "@lifesheets",
+	"license": "GNU",
+	"publishConfig": {
+		"access": "public"
+	}
+}
