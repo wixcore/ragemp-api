@@ -1,0 +1,12 @@
+{
+	"name": "@wixcore/ragemp-types-cefbrowser",
+	"version": "1.0.0",
+	"description": "Types definitions for RAGE:MP CEF module",
+	"main": "index.d.ts",
+	"files": ["index.d.ts"],
+	"author": "@lifesheets",
+	"license": "GNU",
+	"publishConfig": {
+		"access": "public"
+	}
+}
